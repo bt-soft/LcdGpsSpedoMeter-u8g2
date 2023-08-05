@@ -1,2 +1,2 @@
 # LcdGpsSpedoMeter-u8g2
-GPS sebességmérő és fix trafipax jelző motorbiciklire
+GPS speedometer and fixed trafipax indicator for motorbikes
